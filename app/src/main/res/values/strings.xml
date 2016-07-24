@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SMSApp</string>
+    <string name="action_search">Search</string>
+
+    <string name="androidSMS">SMS App</string>
+
+    <string name="default_date">1:41 PM</string>
+    <string name="default_name">Saurabh Kashyap</string>
+    <string name="default_message">How are you?</string>
+</resources>

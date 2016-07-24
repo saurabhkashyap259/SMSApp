@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_grey_d900">#263238</color>
+    <color name="blue_grey_d500">#607D8B</color>
+    <color name="blue_grey_d100">#CFD8DC</color>
+    <color name="blue_grey_d700">#455A64</color>
+
+    <color name="blue_d500">#2196F3</color>
+    <color name="teal_d900">#004D40</color>
+    <color name="yellow_d500">#FFEB3B</color>
+    <color name="deep_orange_d500">#FF5722</color>
+    <color name="red_d500">#F44336</color>
+    <color name="grey_d500">#9E9E9E</color>
+    <color name="grey_d300">#E0E0E0</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="indigo_d500">#3F51B5</color>
+</resources>
